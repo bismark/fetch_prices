@@ -10,3 +10,8 @@ $ fetch_prices aion aelf
 0.001442080
 ```
 
+# To Install
+
+```
+$ pip install git+https://github.com/bismark/fetch_prices.git#egg=fetch_prices
+```
