@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='fetch_prices',
-    version='0.1',
+    version='0.2',
     py_modules=['fetch_prices'],
     install_requires=[
         'Click',
